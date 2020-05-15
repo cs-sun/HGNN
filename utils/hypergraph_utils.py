@@ -9,6 +9,7 @@ import numpy as np
 
 def Eu_dis(x):
     """
+    计算欧氏距离
     Calculate the distance among each raw of x
     :param x: N X D
                 N: the object number
